@@ -13,7 +13,7 @@
     <TR-Name>10cm 연장고각포</TR-Name>
   </Item>
   <Item>
-    <JP-Name>14cｍ単装砲</JP-Name>
+    <JP-Name>14cm単装砲</JP-Name>
     <TR-Name>14cm 단장포</TR-Name>
   </Item>
   <Item>
@@ -837,4 +837,61 @@
     <JP-Name>深海FCS+CIC</JP-Name>
     <TR-Name>심해 FSC+CIC</TR-Name>
   </Item>
+	<Item>
+		<JP-Name>10.5cm連装砲</JP-Name>
+		<TR-Name>10.5cm 연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>203mm/53 連装砲</JP-Name>
+		<TR-Name>203mm/53 연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ro.43水偵</JP-Name>
+		<TR-Name>Ro.43수상정찰기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>16inch三連装砲 Mk.7</JP-Name>
+		<TR-Name>16인치삼연장포 Mk.7</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ro.44水上戦闘機</JP-Name>
+		<TR-Name>Ro.44 수상전투기</TR-Name>
+	</Item>   
+	<Item>
+		<JP-Name>二式水戦改</JP-Name>
+		<TR-Name>2식 수상전투기改</TR-Name>
+	</Item>
+ <Item>
+    <JP-Name>特二式内火艇</JP-Name>
+    <TR-Name>특2식 내화정</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九六式陸攻</JP-Name>
+    <TR-Name>96식 육상공격기</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式陸攻</JP-Name>
+    <TR-Name>1식 육상공격기</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 40mm四連装機関砲</JP-Name>
+    <TR-Name>Bofors 40mm 4연장기관포</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式陸攻(野中隊)</JP-Name>
+    <TR-Name>1식 육상공격기(노나카대)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>53cm連装魚雷</JP-Name>
+    <TR-Name>53cm 연장어뢰</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>三式戦 飛燕</JP-Name>
+    <TR-Name>3식 전투기 히엔</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
+    <TR-Name>3식 전투기 히엔(비행제244전대)</TR-Name>
+  </Item>
+  <Item>
 </Equipment>

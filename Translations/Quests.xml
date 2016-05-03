@@ -1373,4 +1373,64 @@
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>대형함/신형함의 건조를 위해 준비를 실시한다. 임의의 함선으로 근대화개수를 4회 성공시켜라!</TR-Detail>
   </Quest>
+	<Quest>
+		<ID>634</ID>
+		<TR-Name>새 가구 준비</TR-Name>
+		<TR-Detail>장비 9개 분해</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>810</ID>
+		<TR-Name>정유소 지역을 방어하라!</TR-Name>
+		<TR-Detail>1-3 보스전 3회 S승리 달성(경순1척+나머지 구축으로만 편성)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>811</ID>
+		<TR-Name>난세이 제도 방어선을 강화하라!</TR-Name>
+		<TR-Detail>1-4보스전 5회 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>812</ID>
+		<TR-Name>오룔해의 제해권을 확보하라!</TR-Name>
+		<TR-Detail>오오시오를 기함으로 한 함대로 2-3 보스전 6회 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>813</ID>
+		<TR-Name>기함 오오시오 改2 출격하라!</TR-Name>
+		<TR-Detail>오오시오改2를 기함으로 한 함대로 3-5보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>173</ID>
+		<TR-Name>강행 고속 수송부대를 편성하라!</TR-Name>
+		<TR-Detail>센다이改2를 기함, 카와카제改2와 시구레改2+구축함 2척을 포함한 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>814</ID>
+		<TR-Name>강행 고속 수송부대 출격하라!</TR-Name>
+		<TR-Detail>센다이改2를 기함, 카와카제改2와 시구레改2+구축함 2척+자유로 편성된 함대로 4-1보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>815</ID>
+		<TR-Name>제1항공전대 서쪽으로!</TR-Name>
+		<TR-Detail>아카기를 기함으로 하고 카가가 포함된 함대로 4-5보스전 S승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>816</ID>
+		<TR-Name>함대, 3주년!</TR-Name>
+		<TR-Detail>2-2보스전 또는 2-3보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>635</ID>
+		<TR-Name>새로운 장비를 준비</TR-Name>
+		<TR-Detail>장비 5개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>312</ID>
+		<TR-Name>상륙 부대 훈련</TR-Name>
+		<TR-Detail>하루동안 연습전 4회이상 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>636</ID>
+		<TR-Name>상륙전용 신장비 조달</TR-Name>
+		<TR-Detail>7.7mm 기관총 두개와 12.7mm 단장기관총 두개 파기</TR-Detail>
+	</Quest>
 </Quests>
